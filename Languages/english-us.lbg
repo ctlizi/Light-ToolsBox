@@ -1,0 +1,8 @@
+TITLE: Light-ToolsBox
+BOXES: base en/decode, file en/decryption
+RIGHT: Languages, Themes
+Languages: Setting Language, Please select language:, 1, OK, Cancel
+Themes: Setting Theme, Please select theme:, Light Themes, Dark Themes, OK, Cancel
+Base: base en/decode, Input:, Output:, encode, decode, copy output, error, impaired coding format., copied, Output copied.
+Cryption: file en/decryption, file en/decryption, folder en/decryption, from:, select, Open File, All Files, Open Folder, output:, open, encryption, decryption, OK, Encryption is OK., error, Folders cannot be decrypted directly.To decrypt an encrypted folder,decrypt the .zip.base64 file from which the folder was encrypted., decryption is OK., decryption is OK.
+Command: Languages-lang, Themes-theme, base en/decode-base, file en/decryption-cryption
