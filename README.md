@@ -1,9 +1,3 @@
-<style>
-    a {
-        color: aquamarine;
-        text-underline: None;
-    }
-</style>
 # Light-ToolsBox
 [English](./README.md) | [中文简体](./README-zh-CN.md)
 ## README
